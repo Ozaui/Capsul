@@ -1,0 +1,7 @@
+C:\GitHub Project\C#\Capsul\Capsul\Capsul\bin\Debug\Capsul.exe.config
+C:\GitHub Project\C#\Capsul\Capsul\Capsul\bin\Debug\Capsul.exe
+C:\GitHub Project\C#\Capsul\Capsul\Capsul\bin\Debug\Capsul.pdb
+C:\GitHub Project\C#\Capsul\Capsul\Capsul\obj\Debug\Capsul.csproj.AssemblyReference.cache
+C:\GitHub Project\C#\Capsul\Capsul\Capsul\obj\Debug\Capsul.csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\Capsul\Capsul\Capsul\obj\Debug\Capsul.exe
+C:\GitHub Project\C#\Capsul\Capsul\Capsul\obj\Debug\Capsul.pdb
